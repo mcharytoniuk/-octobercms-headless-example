@@ -1,0 +1,3 @@
+name: My static content form
+form: $/acme/contenteditor/controllers/example/fields.yaml
+static_page_name: example

@@ -1,0 +1,16 @@
+fields:
+
+    logo:
+        label: Logo
+        type: fileupload
+        mode: image
+
+    title:
+        label: Homepage title
+        required: true
+
+    planet:
+        label: World you are currently living in
+        type: textarea
+        size: small
+        required: true
